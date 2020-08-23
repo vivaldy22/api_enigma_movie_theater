@@ -32,4 +32,4 @@ How to run:
 1. Linux / OSX, open terminal in the directory, type the arguments, localhost then port <br />
 &nbsp;&nbsp;&nbsp;&nbsp;./enigma-movie-theater-linux-server localhost 1234
 2. Windows, open command prompt in the directory, type the arguments, localhost then port<br />
-&nbsp;&nbsp;&nbsp;&nbsp;enigma-movie-theater-windows-server localhost 1234
+&nbsp;&nbsp;&nbsp;&nbsp;enigma-movie-theater-windows-server.exe localhost 1234
