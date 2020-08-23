@@ -27,3 +27,9 @@ For Creating and Updating, the body should be like this:
 &nbsp;&nbsp;&nbsp;&nbsp;"image_url": "http://movie_cover_url.com", <br />
 &nbsp;&nbsp;&nbsp;&nbsp;"synopsis": "Movie Synopsis" <br />
 } <br />
+
+How to run:
+1. Linux / OSX, open terminal in the directory, type the arguments, localhost then port <br />
+&nbsp;&nbsp;&nbsp;&nbsp;./enigma-movie-theater-linux-server localhost 1234
+2. Windows, open command prompt in the directory, type the arguments, localhost then port<br />
+&nbsp;&nbsp;&nbsp;&nbsp;enigma-movie-theater-windows-server localhost 1234
